@@ -1,0 +1,74 @@
+id,meeting_id,task,assignee,deadline,status,created_at,updated_at
+d10c281a-aba5-41a6-b76a-b9838b32eaf7,c86478f0-e893-4f1a-9c08-f0b92a038872,Alice agrees to write up the project proposal by Friday.,Alice,"",open,2026-04-06 16:28:01.714483+05:30,2026-04-06 16:28:01.714483+05:30
+80f7a51a-aed1-47c2-9eb9-e7581f8310bc,5a1429cd-d2e2-44c7-b843-977375e02127,Please rate the audio and video quality.,"","",open,2026-04-08 23:56:31.365929+05:30,2026-04-08 23:56:31.365929+05:30
+1d655cce-0a37-4ec2-b591-02e575c1520e,7ecc0360-7780-4d36-8f3c-8735c62bcef9,Fix bug in auth,Alice,2025-04-15,open,2026-04-06 16:29:59.296194+05:30,2026-04-06 16:29:59.296194+05:30
+d4c1487d-ac92-4b7d-90df-28001d25c025,7ecc0360-7780-4d36-8f3c-8735c62bcef9,Write docs,Bob,2025-04-20,open,2026-04-06 16:29:59.296194+05:30,2026-04-06 16:29:59.296194+05:30
+4d57ac4e-c8c9-474b-a6ec-3e011de65a21,75e3a9eb-4fe8-4846-a81c-622d5869189d,Alice will send the architecture doc by Friday.,Alice,by Friday,open,2026-04-08 23:10:41.980011+05:30,2026-04-08 23:10:41.980011+05:30
+062b7e2e-fd26-4148-87e0-2aefb626c0ef,75e3a9eb-4fe8-4846-a81c-622d5869189d,Bob should finish QA checklist by next Tuesday.,Bob,by next Tuesday,open,2026-04-08 23:10:41.980011+05:30,2026-04-08 23:10:41.980011+05:30
+1acddcae-90ed-41c7-aa60-90b3ddc72c73,773f433e-f192-45b7-973a-c97b757533bc,Alice will send the budget deck by Friday.,Alice,by Friday,open,2026-04-08 23:18:19.446546+05:30,2026-04-08 23:18:19.446546+05:30
+bc7f7ec5-95e9-458c-b5a4-173b63323a42,773f433e-f192-45b7-973a-c97b757533bc,Bob should finalize onboarding docs by next Tuesday.,Bob,by next Tuesday,open,2026-04-08 23:18:19.446546+05:30,2026-04-08 23:18:19.446546+05:30
+55682231-0feb-4260-98b3-da648a19fed8,93216ab7-bed5-492b-a039-8c1569f86504,Alice will send the budget deck by Friday.,Alice,by Friday,open,2026-04-08 23:22:48.388052+05:30,2026-04-08 23:22:48.388052+05:30
+ae6f070a-ad48-412b-868c-2554e4ffa0dc,93216ab7-bed5-492b-a039-8c1569f86504,Bob should finalize onboarding docs by next Tuesday.,Bob,by next Tuesday,open,2026-04-08 23:22:48.388052+05:30,2026-04-08 23:22:48.388052+05:30
+d925ab83-acca-4f65-8b17-f80dac4f1841,177962b5-bac2-433e-abfc-8c7b9afde948,mic_none mic_noneRealme TechLife Buds T100 (Bluetooth) Realme TechLife Buds T100 (Bluetooth) People panel is open You've left the meeting 60 seconds left Return,"","",open,2026-04-07 14:57:22.42704+05:30,2026-04-07 14:57:22.42704+05:30
+58d4273e-6ed6-4820-ae5b-a82dbd065e1c,e9d65d85-0b83-489f-9025-18eabea8e669,"arrow_downwardJump to the bottom
+What we?","","",open,2026-04-10 15:22:42.387327+05:30,2026-04-10 15:22:42.387327+05:30
+49371f3a-6527-4290-9d1d-072ccb7cd9a9,800733b1-2623-4213-9ba5-b9f7959c35aa,"It sounds  you've said something, so your hand will be lowered.Keep it raised Your hand is lowered.","","",open,2026-04-07 14:59:05.691722+05:30,2026-04-07 14:59:05.691722+05:30
+68abae25-e89b-43b3-b334-d279aa4f7a70,ed9189b4-1b81-4f4d-be8b-2f0ae1cee904,Please rate the audio and video quality.,"","",open,2026-04-10 14:55:27.712969+05:30,2026-04-10 14:55:27.712969+05:30
+6e9528bb-7804-49e8-975d-788f8b4086d1,ed9189b4-1b81-4f4d-be8b-2f0ae1cee904,Please rate the audio and video quality.,"","",open,2026-04-10 14:55:27.712969+05:30,2026-04-10 14:55:27.712969+05:30
+5a26d789-dde5-48a1-bff1-e3fd46b676e1,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Lokendra, I want to assign.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+e2d575b4-1de8-42d3-8e14-9af4b49efa29,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Lokendra, I want to assign your
+Lokendra, I want to assign your work.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+db3e2b1d-cdbd-4420-a74d-000ec1aa6bcc,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Lokendra, I want to assign your work.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+d4a77c1d-3887-4b78-9462-ff27ce386584,b19303cd-6aec-4fde-acae-965e3a419e64,Someone wants to join this call.,"","",open,2026-04-08 22:05:59.173868+05:30,2026-04-08 22:05:59.173868+05:30
+b171c699-d43f-487e-92d6-ab13bb375e25,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Lokendra jain
+Lokendra, I want to assign your work.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+72fb7699-dfcc-4399-bb7f-84c555fc759a,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Lokendra, I want to assign your work.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+71e66985-7e57-4239-9134-d7c9ffbda9ef,956de021-3dd5-4107-ae23-d2bd79e51268,We need to finalize the Q4 budget.,"","",open,2026-04-08 23:31:57.009486+05:30,2026-04-08 23:31:57.009486+05:30
+5f9e7bc0-11af-41cb-b9f1-7ba38c3f8294,956de021-3dd5-4107-ae23-d2bd79e51268,Alice should prepare the spreadsheet by Friday.,"",by Friday,open,2026-04-08 23:31:57.009486+05:30,2026-04-08 23:31:57.009486+05:30
+c1f1732c-e614-40b6-b1ff-3175d612841c,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,Work career action.,"","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+76e89873-7599-49db-bc4e-069734891124,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Know life, transcript, work career action.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+1d6919bb-a9e0-411b-a09d-2e3f51ba4f3e,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Know life, transcript, work career action item.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+221153ec-b983-4aaf-82ff-46d729d5a712,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Know life, transcript, work career action item.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+0af01829-0624-4f86-8914-c7741a7c9f89,a5592c50-204d-49f4-9a40-3bb62359ceb3,Your presentation was added to the main screen.,"","",open,2026-04-08 22:13:35.444533+05:30,2026-04-08 22:13:35.444533+05:30
+6f347d56-ae19-414d-be0b-b8f957e874a1,cdb4b076-85bd-4870-b211-dcb884505c33,Alice will send the architecture doc by Friday.,Alice,Friday,open,2026-04-08 22:28:55.209534+05:30,2026-04-08 22:28:55.209534+05:30
+b8f5b721-5936-4d83-b733-00007fce2616,2049785b-832c-4cb2-b33e-f7d8412a12c8,Alice will send the architecture doc by Friday.,Alice,by Friday,open,2026-04-08 22:31:20.640107+05:30,2026-04-08 22:31:20.640107+05:30
+580cfd18-485d-4748-a497-d8385681ac8e,2049785b-832c-4cb2-b33e-f7d8412a12c8,Bob should finish QA checklist by next Tuesday.,Bob,by next Tuesday,open,2026-04-08 22:31:20.640107+05:30,2026-04-08 22:31:20.640107+05:30
+95905352-3873-4c31-ab3a-7b9b34aa55b1,8e245938-7553-4292-84cd-2432db4e63b3,Alice should finalize the Q4 budget spreadsheet by end of week.,"",by end of week,open,2026-04-08 23:34:33.693285+05:30,2026-04-08 23:34:33.693285+05:30
+458f3ae8-bf4a-4db3-96e1-8ef1a6ae6f00,8e245938-7553-4292-84cd-2432db4e63b3,Bob will conduct the financial review with compliance.,"","",open,2026-04-08 23:34:33.693285+05:30,2026-04-08 23:34:33.693285+05:30
+62a41e46-b133-4281-99db-e0009d748758,8e245938-7553-4292-84cd-2432db4e63b3,We need to schedule a follow-up next Monday to review results.,"",Monday,open,2026-04-08 23:34:33.693285+05:30,2026-04-08 23:34:33.693285+05:30
+58aa7d3a-9f34-4258-820e-d72f35bac4cf,8e245938-7553-4292-84cd-2432db4e63b3,Carol should prepare the executive summary for the board.,"","",open,2026-04-08 23:34:33.693285+05:30,2026-04-08 23:34:33.693285+05:30
+775d9a55-56c5-4b79-9a4a-552483d9c735,807235ab-9436-4015-bd81-7fcea4ff7ba3,Alice should prepare the Q4 budget spreadsheet by Friday.,"",by Friday,open,2026-04-08 23:32:28.456781+05:30,2026-04-08 23:32:28.456781+05:30
+b3e1dd1e-19c9-4578-88ca-9eb7cc62ce79,c46b7425-f175-4d2c-bfd0-509e6caea78d,Alice should finalize the Q4 budget spreadsheet by Friday.,Alice,by Friday,open,2026-04-08 23:37:30.189928+05:30,2026-04-08 23:37:30.189928+05:30
+f8760a95-fee2-45a5-b154-6d822463db84,c46b7425-f175-4d2c-bfd0-509e6caea78d,Bob will coordinate with the finance team next week.,Bob,next week,open,2026-04-08 23:37:30.189928+05:30,2026-04-08 23:37:30.189928+05:30
+0ea70dcd-0134-439d-93d4-015baf1359d7,c46b7425-f175-4d2c-bfd0-509e6caea78d,David should schedule the follow-up meeting for Monday.,David,Monday,open,2026-04-08 23:37:30.189928+05:30,2026-04-08 23:37:30.189928+05:30
+ada0ac8e-ab05-46dd-aed6-f4e1649b093d,a2f34f29-1fc6-45fe-9d56-ba8578108a42,"Avinesh ShuklaAvinesh Shukla
+23:25srk-yhep-pcesrk-yhep-pcemeeting_roomThis call is open to anyone
+srk-yhep-pcesrk-yhep-pcemeeting_roomThis call is open to anyone
+srk-yhep-pcesrk-yh",Call,"",open,2026-04-08 23:39:58.499552+05:30,2026-04-08 23:39:58.499552+05:30
+1b790cfa-8d63-477a-9d0d-5850c33c68fb,a2f34f29-1fc6-45fe-9d56-ba8578108a42,Please rate the audio and video quality.,"","",open,2026-04-08 23:39:58.499552+05:30,2026-04-08 23:39:58.499552+05:30
+e8012596-48f4-41c4-99f1-9fd57bd6154f,c1e0eafd-5600-4a71-aa7c-0fce7b0a00ff,"Know life, transcript, work career action item.","","",open,2026-04-09 23:29:53.150774+05:30,2026-04-09 23:29:53.150774+05:30
+dcccb12d-275d-4474-a208-38bf21b3da7f,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+fb56b845-01f0-4d1d-81c7-068524431ae7,a75301d9-79b8-4e98-ae88-c78c37e7ce91,"I want to assign tasks or
+Hello, how are you?","","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+52e59cfc-7b5c-49ff-9837-47ea6f3de5f0,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+29313484-4bb8-4341-b48e-d968467f4765,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+1553dab7-2d31-4240-9f80-1274226b7908,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+bb23a7c3-79f5-448a-ad18-a353e9577d31,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+282a01be-a609-4a5f-994f-e0a49eedd445,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+f8eae7d3-3ed0-4f42-92a6-c552e0f4a5d5,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+35d0c491-bf82-4967-a87c-c0813e7199a8,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+36c00730-8e44-42fe-a6ad-bdf4a1deaa51,a75301d9-79b8-4e98-ae88-c78c37e7ce91,I want to assign task to Radhika.,"","",open,2026-04-09 23:30:56.7734+05:30,2026-04-09 23:30:56.7734+05:30
+b3dae590-f34f-48cb-a39e-5ef6b023abbe,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,I want to assign task.,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+20d7db8b-badc-4aa8-ac0e-c183a9616a63,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,I want to assign task to.,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+d4ef4e7e-6777-4e0e-91de-b8bc42e27681,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,I want to assign task to J.,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+489c632b-57d4-46d8-9543-18868284bcbe,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,I want to assign task to Jai.,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+ee693544-0369-434c-a7ee-605ac04b4a8c,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,Are you assigned?,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+8dadfa8e-d015-49fc-8204-668e32b7e087,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,Are you assign task Aga?,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+fdf601d9-d996-4545-bc63-055060b517ef,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,I want to assign task to Jai.,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+97401cb1-c66f-4d98-98a7-d60c349e0d59,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,Assigned task.,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+c31d0fc3-bec2-49d7-9edf-c9a271743e14,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,"assigned task is
+Assigned task is the
+assigned task is like,
+assigned task is like a
+I want to.","","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30
+652ee086-25cf-4b0d-bcbf-82197f06bb5b,af0b8802-0e91-4c0a-a5dc-3de5aa2f940c,I want to assign us.,"","",open,2026-04-10 00:38:53.880712+05:30,2026-04-10 00:38:53.880712+05:30

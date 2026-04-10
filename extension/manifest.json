@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Smart Meeting Assistant - Conversation to Action",
+  "description": "Capture web meetings, extract action items, and display live AI insights in-call.",
+  "version": "1.0.0",
+  "action": {
+    "default_title": "Smart Meeting Assistant",
+    "default_popup": "popup/popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting", "storage", "tabs"],
+  "host_permissions": [
+    "https://meet.google.com/*",
+    "https://*.zoom.us/*",
+    "https://teams.microsoft.com/*",
+    "http://localhost:8000/*",
+    "http://127.0.0.1:8000/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://meet.google.com/*",
+        "https://*.zoom.us/*",
+        "https://teams.microsoft.com/*"
+      ],
+      "js": ["utils/meeting.js", "content.js", "injected/meetingOverlay.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

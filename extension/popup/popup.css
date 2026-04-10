@@ -1,0 +1,146 @@
+:root {
+  --bg: #f5f7ff;
+  --panel: #ffffff;
+  --text: #19202e;
+  --muted: #52617d;
+  --primary: #0f766e;
+  --accent: #f97316;
+  --success: #166534;
+  --danger: #b91c1c;
+  --border: #d6def0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  width: 360px;
+  min-height: 500px;
+  background: radial-gradient(circle at top right, #d8f6ef 0%, var(--bg) 55%);
+  color: var(--text);
+  font-family: "Manrope", "Segoe UI", sans-serif;
+}
+
+.popup {
+  padding: 14px;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 12px;
+  box-shadow: 0 8px 24px rgba(10, 33, 79, 0.08);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 16px;
+  margin: 0;
+}
+
+.badge {
+  font-size: 11px;
+  border-radius: 999px;
+  padding: 4px 8px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.badge-live {
+  background: var(--success);
+}
+
+.badge-idle {
+  background: #6b7280;
+}
+
+.status {
+  margin: 8px 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.section {
+  margin-top: 12px;
+}
+
+.section h3 {
+  margin: 0 0 8px;
+  font-size: 13px;
+}
+
+.value {
+  font-size: 12px;
+  line-height: 1.45;
+  color: #263149;
+  background: #f8faff;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  padding: 8px;
+  max-height: 120px;
+  overflow: auto;
+}
+
+.controls {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+button {
+  border: 0;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 12px;
+  padding: 10px;
+  font-weight: 700;
+  color: #fff;
+  transition: transform 0.15s ease, filter 0.2s ease;
+}
+
+button:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.04);
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.btn-start {
+  background: linear-gradient(135deg, var(--primary), #0f9f94);
+}
+
+.btn-stop {
+  background: linear-gradient(135deg, var(--danger), #ef4444);
+}
+
+.btn-summary {
+  background: linear-gradient(135deg, #1d4ed8, #2563eb);
+}
+
+.btn-sync {
+  background: linear-gradient(135deg, var(--accent), #fb923c);
+}
+
+.list {
+  margin: 0;
+  padding-left: 16px;
+}
+
+.list li {
+  margin-bottom: 6px;
+  font-size: 12px;
+  color: #2a3552;
+}

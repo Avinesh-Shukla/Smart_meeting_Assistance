@@ -1,0 +1,19 @@
+fastapi==0.115.12
+uvicorn[standard]==0.34.1
+python-dotenv==1.1.0
+pydantic==2.11.3
+pydantic-settings==2.8.1
+sqlalchemy==2.0.40
+psycopg[binary]==3.2.6
+
+langgraph==0.3.34
+langchain==0.3.22
+langchain-google-genai==2.1.1
+langchain-openai==0.3.12
+openai==1.72.0
+pinecone==6.0.2
+
+playwright==1.51.0
+
+# 🔥 FIX: replace whisper
+faster-whisper==1.0.3

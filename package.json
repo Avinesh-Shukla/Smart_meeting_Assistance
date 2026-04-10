@@ -1,0 +1,19 @@
+{
+  "name": "smart-meeting-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart Meeting Assistant - Conversation to Action",
+  "scripts": {
+    "build:extension": "node scripts/build-extension.mjs",
+    "dev:extension": "node scripts/build-extension.mjs --watch",
+    "backend": "uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000"
+  },
+  "dependencies": {
+    "nodemailer": "^8.0.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.2"
+  }
+}
